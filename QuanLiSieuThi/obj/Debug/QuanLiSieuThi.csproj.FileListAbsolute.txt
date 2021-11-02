@@ -1,0 +1,16 @@
+E:\Code\C#\QuanLiSieuThi\QuanLiSieuThi\bin\Debug\QuanLiSieuThi.exe.config
+E:\Code\C#\QuanLiSieuThi\QuanLiSieuThi\bin\Debug\QuanLiSieuThi.exe
+E:\Code\C#\QuanLiSieuThi\QuanLiSieuThi\bin\Debug\QuanLiSieuThi.pdb
+E:\Code\C#\QuanLiSieuThi\QuanLiSieuThi\obj\Debug\QuanLiSieuThi.csproj.AssemblyReference.cache
+E:\Code\C#\QuanLiSieuThi\QuanLiSieuThi\obj\Debug\QuanLiSieuThi.frmLogin.resources
+E:\Code\C#\QuanLiSieuThi\QuanLiSieuThi\obj\Debug\QuanLiSieuThi.Properties.Resources.resources
+E:\Code\C#\QuanLiSieuThi\QuanLiSieuThi\obj\Debug\QuanLiSieuThi.csproj.GenerateResource.cache
+E:\Code\C#\QuanLiSieuThi\QuanLiSieuThi\obj\Debug\QuanLiSieuThi.csproj.CoreCompileInputs.cache
+E:\Code\C#\QuanLiSieuThi\QuanLiSieuThi\obj\Debug\QuanLiSieuThi.exe
+E:\Code\C#\QuanLiSieuThi\QuanLiSieuThi\obj\Debug\QuanLiSieuThi.pdb
+E:\Code\C#\QuanLiSieuThi\QuanLiSieuThi\obj\Debug\QuanLiSieuThi.Input.resources
+E:\Code\C#\QuanLiSieuThi\QuanLiSieuThi\obj\Debug\QuanLiSieuThi.frmProducts.resources
+E:\Code\C#\QuanLiSieuThi\QuanLiSieuThi\obj\Debug\QuanLiSieuThi.frmSellers.resources
+E:\Code\C#\QuanLiSieuThi\QuanLiSieuThi\obj\Debug\QuanLiSieuThi.frmCategories.resources
+E:\Code\C#\QuanLiSieuThi\QuanLiSieuThi\obj\Debug\QuanLiSieuThi.frmSelling.resources
+E:\Code\C#\QuanLiSieuThi\QuanLiSieuThi\obj\Debug\QuanLiSieuThi.FormProgram.frmThongke.resources
